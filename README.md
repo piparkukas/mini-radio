@@ -1,2 +1,3 @@
-# mini-radio
-Radio player that uses free Radio Browser API
+# minimal_radio
+
+A new Flutter project.
